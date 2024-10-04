@@ -1,0 +1,16 @@
+C:\Users\Fabrício\source\repos\ConversorMoeda\bin\Debug\net8.0-windows\ConversorMoeda.exe
+C:\Users\Fabrício\source\repos\ConversorMoeda\bin\Debug\net8.0-windows\ConversorMoeda.deps.json
+C:\Users\Fabrício\source\repos\ConversorMoeda\bin\Debug\net8.0-windows\ConversorMoeda.runtimeconfig.json
+C:\Users\Fabrício\source\repos\ConversorMoeda\bin\Debug\net8.0-windows\ConversorMoeda.dll
+C:\Users\Fabrício\source\repos\ConversorMoeda\bin\Debug\net8.0-windows\ConversorMoeda.pdb
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.Form1.resources
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.csproj.GenerateResource.cache
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.AssemblyInfo.cs
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.dll
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\refint\ConversorMoeda.dll
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.pdb
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ConversorMoeda.genruntimeconfig.cache
+C:\Users\Fabrício\source\repos\ConversorMoeda\obj\Debug\net8.0-windows\ref\ConversorMoeda.dll
